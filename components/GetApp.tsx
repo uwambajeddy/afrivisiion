@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const GetApp = () => {
   return (
-    <section className="flexCenter w-full flex-col pb-[100px] pt-8">
+    <section id="prototype" className="flexCenter w-full flex-col pb-[100px] pt-8">
       <div className="get-app">
         <div className="z-20 flex w-full flex-1 flex-col items-start justify-center gap-12">
           <h2 className="bold-40 lg:bold-64 xl:max-w-[320px]">Prototype demo!</h2>
@@ -14,6 +14,7 @@ const GetApp = () => {
               type="button"
               title="Click here to view"
               variant="btn_white"
+              // url="https://www.figma.com/proto/ULzGTNaQ1FXHZbt4rY3yIH/Afrivision-ventures---job-portal?page-id=0%3A1&type=design&node-id=1246-779&viewport=109%2C-2192%2C0.09&t=64EQhzTzTwTn5erJ-1&scaling=scale-down-width&mode=design"
               full
             />
           </div>

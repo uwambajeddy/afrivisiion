@@ -7,12 +7,12 @@ const People = () => {
 
   
   const profiles = [
-    { name: 'Eddy UWAMBAJE', position: 'Eddy  is a tech-savvy innovator with a passion for leveraging cutting-edge technologies to address societal challenges. ', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/eddy-afrivision_emaqny.png' },
-    { name: 'Joshua INTWARI', position: 'Joshua brings strong leadership skills to the team, with a proven track record of effectively guiding projects from inception to completion. ', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225083/Opera_Snapshot_2024-01-30_200115_web.whatsapp.com_jelbha.png' },
-    { name: 'Olivier UWAMUNGU', position: 'iuhuwhefiuwhf ewfewf', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/WhatsApp_Image_2024-01-30_at_5.58.23_PM_itkfbu.png' },
-    { name: 'Luis YESANI', position: 'We provide a solution for you to be able to use our application when climbing,', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/WhatsApp_Image_2024-01-30_at_3.15.19_PM_rbxstk.png' },
-    { name: 'Louis MANZI', position: 'We provide a solution for you to be able to use our application when climbing,', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225289/Opera_Snapshot_2024-03-23_222102_docs.google.com_gh32vv.png' },
-    { name: 'Olivier ISHIMWE', position: 'We provide a solution for you to be able to use our application when climbing,', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/WhatsApp_Image_2024-01-30_at_2.26.06_PM_ajafmx.png' },
+    { name: 'Eddy UWAMBAJE', position: 'Eddy is the tech figure with outstanding courage and ethusiasm towards the team and always tackles hard ach ', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/eddy-afrivision_emaqny.png' },
+    { name: 'Joshua INTWARI', position: 'Joshua  is a charismatic leader who brings motivatio and seriousness in the team in order for the work to be done on time. ', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225083/Opera_Snapshot_2024-01-30_200115_web.whatsapp.com_jelbha.png' },
+    { name: 'Olivier UWAMUNGU', position: 'Olivier is a fellow who brings personality to the team, making everyone confident in their abilities', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/WhatsApp_Image_2024-01-30_at_5.58.23_PM_itkfbu.png' },
+    { name: 'Luis YESANI', position: 'Luis is an individual who check whether the work produced has excellent quality to ensure high marks on assignments', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/WhatsApp_Image_2024-01-30_at_3.15.19_PM_rbxstk.png' },
+    { name: 'Louis MANZI', position: 'Louis brings wonderful ideas to complex situations which saves us a lot of time for he comes up with answers, and the rest make to put them in action', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225289/Opera_Snapshot_2024-03-23_222102_docs.google.com_gh32vv.png' },
+    { name: 'Olivier ISHIMWE', position: 'Olivier is a character that brings fun in the team by making jokes and also checking up on the due dates of assignments to ensure we are still on track', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/WhatsApp_Image_2024-01-30_at_2.26.06_PM_ajafmx.png' },
     // Add more profiles as needed
 ];
 

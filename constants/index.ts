@@ -1,19 +1,19 @@
 // NAVIGATION
 export const NAV_LINKS = [
   { href: '/', key: 'home', label: 'Home' },
-  { href: '/', key: 'how_afrivision_work', label: 'Problem statement' },
-  { href: '/', key: 'services', label: 'Solution' },
-  { href: '/', key: 'pricing ', label: 'E-LAB challenges' },
-  { href: '/', key: 'pricing ', label: 'Team' },
-  { href: '/', key: 'contact_us', label: 'Prototype' },
+  { href: '/#problem', key: 'how_afrivision_work', label: 'Problem statement' },
+  { href: '/#solution', key: 'solution', label: 'Solution' },
+  { href: '/#e-lab', key: 'e-lab ', label: 'E-LAB challenges' },
+  { href: '/#team', key: 'team ', label: 'Team' },
+  { href: '/#prototype', key: 'prototype', label: 'Prototype' },
 ];
 
 // CAMP SECTION
 export const PEOPLE_URL = [
-  '/person-1.png',
-  '/person-2.png',
-  '/person-3.png',
-  '/person-4.png',
+  'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/eddy-afrivision_emaqny.png',
+  'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225083/Opera_Snapshot_2024-01-30_200115_web.whatsapp.com_jelbha.png',
+  'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/WhatsApp_Image_2024-01-30_at_5.58.23_PM_itkfbu.png',
+  'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/WhatsApp_Image_2024-01-30_at_3.15.19_PM_rbxstk.png',
 ];
 
 // FEATURES SECTION

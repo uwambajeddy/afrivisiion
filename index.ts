@@ -1,18 +1,18 @@
 // NAVIGATION
 export const NAV_LINKS = [
   { href: '/', key: 'home', label: 'Home' },
-  { href: '/', key: 'our_mission', label: 'Our mission' },
-  { href: '/', key: 'solution', label: 'Solution' },
-  { href: '/', key: 'team ', label: 'Team' },
-  { href: '/', key: 'contact_us', label: 'Contact Us' },
+  { href: '/#mission', key: 'our_mission', label: 'Our mission' },
+  { href: '/#solution', key: 'solution', label: 'Solution' },
+  { href: '/#team', key: 'team ', label: 'Team' },
+  { href: '/#contact', key: 'contact_us', label: 'Contact Us' },
 ];
 
 // CAMP SECTION
 export const PEOPLE_URL = [
   'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/eddy-afrivision_emaqny.png',
-  '/person-2.png',
-  '/person-3.png',
-  '/person-4.png',
+  'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225083/Opera_Snapshot_2024-01-30_200115_web.whatsapp.com_jelbha.png',
+  'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/WhatsApp_Image_2024-01-30_at_5.58.23_PM_itkfbu.png',
+  'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711225082/WhatsApp_Image_2024-01-30_at_3.15.19_PM_rbxstk.png',
 ];
 
 // FEATURES SECTION

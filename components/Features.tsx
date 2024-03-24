@@ -24,7 +24,7 @@ const ItemList = () => {
     };
 
     return (
-      <div className="container mx-auto mt-14">
+      <div className="container mx-auto mt-14" id="e-lab">
         <div className="padding-container max-container w-full pb-24">
         <p className="uppercase regular-18 -mt-1 mb-3 text-green-50">
          E-Lab
