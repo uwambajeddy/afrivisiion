@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const ItemList = () => {
     const [modalOpen, setModalOpen] = useState(false);
-    const [selectedItem, setSelectedItem] = useState(null);
+    const [selectedItem, setSelectedItem] = useState<any>(null);
 
     const items = [
         { id: 1, name: 'Challenge 01: Introduction', imageUrl: 'https://res.cloudinary.com/dvibmdi1y/image/upload/v1711254546/image_2024-03-24_062859182_tkkfu6.png', youtubeId: 'vlnoSz-c7b8?si=aQfPme1JBOzThNT-' },
