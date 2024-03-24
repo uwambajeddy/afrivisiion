@@ -14,7 +14,7 @@ const GetApp = () => {
               type="button"
               title="Click here to view"
               variant="btn_white"
-              // url="https://www.figma.com/proto/ULzGTNaQ1FXHZbt4rY3yIH/Afrivision-ventures---job-portal?page-id=0%3A1&type=design&node-id=1246-779&viewport=109%2C-2192%2C0.09&t=64EQhzTzTwTn5erJ-1&scaling=scale-down-width&mode=design"
+              url="https://www.figma.com/proto/ULzGTNaQ1FXHZbt4rY3yIH/Afrivision-ventures---job-portal?page-id=0%3A1&type=design&node-id=1246-779&viewport=109%2C-2192%2C0.09&t=64EQhzTzTwTn5erJ-1&scaling=scale-down-width&mode=design"
               full
             />
           </div>
