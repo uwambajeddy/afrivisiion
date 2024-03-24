@@ -30,7 +30,7 @@ const Hero = () => {
             type="button" 
             title="View prototype" 
             variant="btn_green" 
-            url='#get-app'
+            url='#prototype'
           />
           <Button 
             type="button" 
